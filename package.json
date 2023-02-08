@@ -1,0 +1,28 @@
+{
+  "name": "LevianCode",
+  "version": "0.0.3",
+  "description": "Sunucunuza Ozel Yapılandıra Bileceğiniz Destek Sistemidir Lütfen İzinsiz Paylaşmayın! ",
+  "main": "levian.js",
+  "scripts": {
+    "start": "node levian.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.1.4"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
